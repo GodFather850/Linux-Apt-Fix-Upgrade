@@ -66,7 +66,7 @@ This script works on systems that use APT, including:
 3️⃣ Repair broken dependencies
     Equivalent to:
 
-  apt --fix-broken install
+        apt --fix-broken install
 
 4️⃣ System update & upgrade
     Brings your full system up to date.
