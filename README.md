@@ -47,11 +47,11 @@ This script works on systems that use APT, including:
 
 🔧 1. Give permission: 
 
-    chmod +x fix-apt.sh
+    chmod +x apt_error-fix.sh
 
 ▶️ 2. Run the script: 
 
-    ./fix-apt.sh
+    ./apt_error-fix.sh
 
 ---
 
