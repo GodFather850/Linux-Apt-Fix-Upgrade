@@ -12,15 +12,15 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 🚀 Features
 
-✔ Removes APT/Dpkg lock files
-✔ Automatically configures unconfigured packages
-✔ Fixes broken dependencies
-✔ Runs full update & upgrade
-✔ Installs neofetch (if not installed)
-✔ Shows a clean and colorful system status
-✔ Displays a random motivational Linux quote
-✔ Fully automated — no input required
-✔ Beautiful terminal colors
+    ✔ Removes APT/Dpkg lock files
+    ✔ Automatically configures unconfigured packages
+    ✔ Fixes broken dependencies
+    ✔ Runs full update & upgrade
+    ✔ Installs neofetch (if not installed)
+    ✔ Shows a clean and colorful system status
+    ✔ Displays a random motivational Linux quote
+    ✔ Fully automated — no input required
+    ✔ Beautiful terminal colors
 
 
 ---
@@ -29,15 +29,15 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 This script works on systems that use APT, including:
 
-  Ubuntu
-  
-  Debian
-  
-  Kali Linux
-  
-  Linux Mint
-  
-  Pop!_OS
+    Ubuntu
+    
+    Debian
+    
+    Kali Linux
+    
+    Linux Mint
+    
+    Pop!_OS
 
 
 
@@ -45,10 +45,13 @@ This script works on systems that use APT, including:
 
 📜 Script Usage
 
-🔧 1. Give permission: chmod +x fix-apt.sh
+🔧 1. Give permission: 
 
-▶️ 2. Run the script: ./fix-apt.sh
+    chmod +x fix-apt.sh
 
+▶️ 2. Run the script: 
+
+    ./fix-apt.sh
 
 ---
 
@@ -63,7 +66,7 @@ This script works on systems that use APT, including:
 3️⃣ Repair broken dependencies
     Equivalent to:
 
-    apt --fix-broken install
+  apt --fix-broken install
 
 4️⃣ System update & upgrade
     Brings your full system up to date.
