@@ -70,3 +70,4 @@ fi
 
 echo -e "\e[32mGood Luck!\e[0m"
 
+# Scripted By GodFather
