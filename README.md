@@ -1,15 +1,15 @@
 # Linux-Apt-Fix-Upgrade
 A Bash Script to automatically fix / repair and clean broken or incomplete APT package on Debian/Ubuntu Systems.
 
-#===================(V1.2)========================
+# ===================(V1.2)========================
 
-#apt_error-fix.sh (V1.5):
+# apt_error-fix.sh (V1.5):
 
     Optimized Script Performance
     Optimized User Messages
     Added feedback functionality
     
-#=================================================
+# =================================================
 
 🛠️ Linux APT Auto‑Fix & System Repair Script
 
