@@ -23,7 +23,7 @@ for i in {1..2}; do
 done
 
 # Message Finished job Time
-echo -e "\e[42mLinux:\e[0m  \e[31mApt Process Completed (Errors Fixed & Packages Upgraded)\e[0m"
+echo -e "\e[42mLinux:\e[0m  \e[31mApt Process Completed\e[0m \e[95m(Errors Fixed & Packages Upgraded)\e[0m"
 
 for i in {1..2}; do
     echo " "
@@ -53,12 +53,14 @@ while ! [[ "$num" =~ ^[1-9]$|^10$ ]]; do
 	read -p "Send your feedback (1-10): " num
 done
 
+clear
 # if feedback < 5
 if [[ "$num" -le 5 ]]; then
 	read -p "Make a suggestion for improvement: " feedback
-	if [[ -z "$feedback" ]]; then
-		clear
+	if [[ -z "$feedback" ]]; then  # If not feedback reason
+		read -p "Make a suggestion for improvement: " feedback
 	else
+		clear
 		neofetch
 		echo -e "\e[96mThanks for your feedback <3\e[0m"
 		echo -e "\e[45mCreated By GodFather\e[0m"
