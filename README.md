@@ -11,7 +11,7 @@ A Bash Script to automatically fix / repair and clean broken or incomplete APT p
     
 # =============================================
 
-🛠️ Linux APT Auto‑Fix & System Repair Script
+# 🛠️ Linux APT Auto‑Fix & System Repair Script
 
 A lightweight Bash script designed to automatically fix common APT/Dpkg errors, repair broken packages, update the system, and display system info with clean, colorful output.
 
@@ -20,7 +20,7 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 ---
 
-🚀 Features
+# 🚀 Features
 
     ✔ Removes APT/Dpkg lock files
     ✔ Automatically configures unconfigured packages
@@ -35,7 +35,7 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 ---
 
-📦 Requirements
+# 📦 Requirements
 
 This script works on systems that use APT, including:
 
@@ -53,7 +53,7 @@ This script works on systems that use APT, including:
 
 ---
 
-📜 Script Usage
+# 📜 Script Usage
 
 🔧 1. Give permission: 
 
@@ -65,7 +65,7 @@ This script works on systems that use APT, including:
 
 ---
 
-📂 What This Script Does — Step by Step
+# 📂 What This Script Does — Step by Step
 
 1️⃣ Remove dpkg/apt lock files
     Prevents errors caused by interrupted installs.
@@ -93,7 +93,7 @@ This script works on systems that use APT, including:
 
 ---
 
-📷 Example Output
+# 📷 Example Output
 
 your System Status:
 <neofetch info here>
@@ -107,7 +107,7 @@ your System Status:
 
 ---
 
-👤 Author
+# 👤 Author
 
   Created by: GodFather
   MTA Scripter • Linux Learner • Future DevOps Engineer 🇺🇸🔥
