@@ -74,9 +74,7 @@ This script works on systems that use APT, including:
     Fixes and sets up partially installed packages.
 
 3️⃣ Repair broken dependencies
-    Equivalent to:
-
-        apt --fix-broken install
+    Equivalent.
 
 4️⃣ System update & upgrade
     Brings your full system up to date.
@@ -98,16 +96,18 @@ This script works on systems that use APT, including:
 your System Status:
 <neofetch info here>
 
-  Linux: Apt Process Completed (Errors Fixed & Packages Upgraded)
-  =========================================
-  Linux: Where coders feel at home.
-  =========================================
-  Created By GodFather
+      Linux: Apt Process Completed (Errors Fixed & Packages Upgraded)
+      
+      =========================================
+      Linux: Where coders feel at home.
+      =========================================
+      
+      Created By GodFather
 
 
 ---
 
 # 👤 Author
 
-  Created by: GodFather
+  Created by: GodFather | 
   MTA Scripter • Linux Learner • Future DevOps Engineer 🇺🇸🔥
