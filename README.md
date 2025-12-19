@@ -3,7 +3,7 @@ A Bash Script to automatically fix / repair and clean broken or incomplete APT p
 
 # ===================(V1.2)=====================
 
-# apt_error-fix.sh (V1.5):
+# apt_error-fix.sh (V1.2):
 
     Optimized Script Performance
     Optimized User Messages
