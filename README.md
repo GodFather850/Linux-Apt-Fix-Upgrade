@@ -1,4 +1,4 @@
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # Linux-Apt-Fix-Upgrade (V1.2)
 A Bash Script to automatically fix / repair and clean broken or incomplete APT package on Debian/Ubuntu Systems.
 
@@ -21,7 +21,7 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 
 ---
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 # 🚀 Features
 
     ✔ Removes APT/Dpkg lock files
@@ -36,7 +36,7 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 
 ---
-
+![Tux](https://img.shields.io/badge/Tux-000000?style=for-the-badge&logo=linux&logoColor=white)
 # 📦 Requirements
 
 This script works on systems that use APT, including:
@@ -54,7 +54,7 @@ This script works on systems that use APT, including:
 
 
 ---
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📜 Script Usage
 
 🔧 1. Give permission: 
@@ -113,3 +113,6 @@ your System Status:
 
   Created by: GodFather | 
   MTA Scripter • Linux Learner • Future DevOps Engineer 🇺🇸🔥
+---
+
+  ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
