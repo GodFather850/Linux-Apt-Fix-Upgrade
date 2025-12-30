@@ -1,4 +1,4 @@
-![Repair](HWH-repair.png)
+
 # Linux-Apt-Fix-Upgrade (V1.2)
 A Bash Script to automatically fix / repair and clean broken or incomplete APT package on Debian/Ubuntu Systems.
 
@@ -66,7 +66,7 @@ This script works on systems that use APT, including:
     ./apt_error-fix.sh
 ```
 ---
-
+![Repair](HWH-repair.png)
 # 📂 What This Script Does — Step by Step
 
 1️⃣ Remove dpkg/apt lock files
