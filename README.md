@@ -5,10 +5,11 @@ A Bash Script to automatically fix / repair and clean broken or incomplete APT p
 
 # apt_error-fix.sh (V1.2):
 
+```markdown
     Optimized Script Performance
     Optimized User Messages
     Added feedback functionality
-    
+```    
 # =============================================
 
 # 🛠️ Linux APT Auto‑Fix & System Repair Script
@@ -56,13 +57,13 @@ This script works on systems that use APT, including:
 # 📜 Script Usage
 
 🔧 1. Give permission: 
-
+```bash
     chmod +x apt_error-fix.sh
-
+```
 ▶️ 2. Run the script: 
-
+```bash
     ./apt_error-fix.sh
-
+```
 ---
 
 # 📂 What This Script Does — Step by Step
@@ -95,7 +96,7 @@ This script works on systems that use APT, including:
 
 your System Status:
 <neofetch info here>
-
+```markdown
       Linux: Apt Process Completed (Errors Fixed & Packages Upgraded)
       
       =========================================
@@ -103,7 +104,7 @@ your System Status:
       =========================================
       
       Created By GodFather
-
+```
 
 ---
 
