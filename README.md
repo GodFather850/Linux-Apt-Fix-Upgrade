@@ -37,22 +37,21 @@ Perfect for beginners, sysadmins, and anyone who wants a fast way to clean and u
 
 ---
 ![Tux](https://img.shields.io/badge/Tux-000000?style=for-the-badge&logo=linux&logoColor=white)
-# 📦 Requirements
+# 📦
+# Supported operating systems:
 
-This script works on systems that use APT, including:
-
-    Ubuntu
-    
-    Debian
-    
-    Kali Linux
-    
-    Linux Mint
-    
-    Pop!_OS
-
-
-
+```markdown
+kali
+Debian
+Ubuntu
+mint
+POP!_OS
+MX Linux
+Devuan
+Sparky Linux
+antiX
+Porrot OS
+```
 ---
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📜 Script Usage
