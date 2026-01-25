@@ -111,7 +111,9 @@ your System Status:
 # 👤 Author
 
   Created by: GodFather | 
-  MTA Scripter • Linux Learner • Future DevOps Engineer 🇺🇸🔥
+
+  -📜MTA Scripter • Linux Learner🐧 • Python Learner • SQL • Bash Scripter 🇺🇸🔥
+
 ---
 
   ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
