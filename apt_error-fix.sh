@@ -3,6 +3,9 @@
 echo -e "\e[42mFixing Your Linux Pleas Wait.....\e[0m"
 # To Remove DPKG/APT That incomplete
 sudo rm -f /var/lib/dpkg/lock-frontend /var/lib/dpkg/lock
+sudo rm /var/lib/apt/lists/lock
+sudo rm /var/cache/apt/archives/lock
+sudo rm /var/lib/dpkg/lock
 
 # Configuring all Installed Packages
 sudo dpkg --configure -a
@@ -14,8 +17,8 @@ sudo apt --fix-broken install -y
 sudo apt update && sudo apt upgrade -y
 
 # System Status
-if ! command -v neofetch &> /dev/null; then
-    sudo apt install neofetch -y
+if ! command -v fastfetch &> /dev/null; then
+    sudo apt install fastfetch -y
 fi
 
 for i in {1..2}; do
@@ -45,31 +48,6 @@ for i in {1..2}; do
     echo " "
 done
 
-# FeedBack
-read -p "Send your feedback (1-10): " num
-
-while ! [[ "$num" =~ ^[1-9]$|^10$ ]]; do
-	echo "Wrong FeedBack Pleas Enter Number between 1-10"
-	read -p "Send your feedback (1-10): " num
-done
-
-clear
-# if feedback < 5
-if [[ "$num" -le 5 ]]; then
-	read -p "Make a suggestion for improvement: " feedback
-	if [[ -z "$feedback" ]]; then  # If not feedback reason
-		read -p "Make a suggestion for improvement: " feedback
-	else
-		clear
-		neofetch
-		echo -e "\e[96mThanks for your feedback <3\e[0m"
-		echo -e "\e[45mCreated By GodFather\e[0m"
-	fi
-else
-	echo -e "\e[96mThanks for your feedback <3\e[0m"
-	echo -e "\e[45mCreated By GodFather\e[0m"
-fi
-
-echo -e "\e[32mGood Luck!\e[0m"
+echo -e "\e[45mCreated By GodFather\e[0m"
 
 # Scripted By GodFather
