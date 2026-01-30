@@ -2,6 +2,7 @@
 
 echo -e "\e[42mFixing Your Linux Pleas Wait.....\e[0m"
 # To Remove DPKG/APT That incomplete
+sudo killall apt-get
 sudo rm -f /var/lib/dpkg/lock-frontend /var/lib/dpkg/lock
 sudo rm /var/lib/apt/lists/lock
 sudo rm /var/cache/apt/archives/lock
