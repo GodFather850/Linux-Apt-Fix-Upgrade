@@ -1,8 +1,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# Linux-Apt-Fix-Upgrade (V1.2)
+# Linux-Apt-Fix-Upgrade (V1.8)
 A Bash Script to automatically fix / repair and clean broken or incomplete APT package on Debian/Ubuntu Systems.
 
-# Update {V1.8 (BETA)} is coming....
+---
+![Update](Update.jpg)
+# =============================================
+# Update {V1.8}
+**Features**
+```markdown
+optimaized Script
+optimaized Speed
+added unlock /var/cache/apt/archives/lock
+```
+# =============================================
 
 # 🛠️ Linux APT Auto‑Fix & System Repair Script
 
