@@ -50,5 +50,7 @@ for i in {1..2}; do
 done
 
 echo -e "\e[45mCreated By GodFather\e[0m"
+sleep 5
+reboot
 
 # Scripted By GodFather
